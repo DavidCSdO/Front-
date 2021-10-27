@@ -1,0 +1,494 @@
+body {
+     height: 10vh;
+      overflow-x: hidden;
+       margin: 0;
+        padding: 0;   
+    }
+
+.conteudo{
+      display: flex;
+      transition: none;
+      transform: none;
+  }
+
+.vetor1{
+    position: absolute;
+    
+}
+
+.vetor1{
+    width: 100%;
+    height: 100%;
+}
+.verde1 img{
+    
+    width: 16rem;
+    height: 22.8rem;
+}
+
+.verde1{
+    position: absolute;
+}
+
+
+.verde1{
+    z-index: 2;
+}
+
+.verde1{
+    
+left: 10%;
+top: 6.5%;
+}
+
+.verde2{
+    z-index: 1;
+    position: absolute;
+    
+    left: 8%;
+    top: 3.5%;
+
+
+border-radius: 22px;
+transform: rotate(1deg);
+}
+.verde2 img{
+    
+    width: 19.8rem;
+    height: 23rem;
+}
+
+.vermelho1{
+    position: absolute;
+}
+
+.vermelho1 img{
+    
+    width: 16rem;
+    height: 22.8rem;
+}
+
+.vermelho1{
+    z-index: 2;
+}
+
+.vermelho1{
+    
+    left: 42%;
+    top: 6.5%;
+}
+
+.vermelho2{
+    position: absolute;
+}
+.vermelho2 img{
+    
+    width: 17rem;
+    height: 22.8rem;
+}
+
+.vermelho2{
+    z-index: 1;
+}
+
+.vermelho2{
+  
+
+left: 42.5%;
+top: 4%;
+border-radius: 22px;
+transform: rotate(-1deg);
+}
+
+.amarelo1{
+
+    position: absolute;
+}
+
+.amarelo1 img{
+    
+    width: 16rem;
+    height: 21.8rem;
+}
+
+.amarelo1{
+    z-index: 2;
+}
+
+.amarelo1{
+   
+left: 73%;
+top: 6.5%;
+        
+}
+
+.amarelo2{
+    position: absolute;
+}
+.amarelo2 img{
+    
+    width: 16rem;
+    height: 22.8rem;
+}
+
+.amarelo2{
+    z-index: 1;
+}
+
+.amarelo2{  
+left: 72%;
+top: 4.5%;
+
+
+border-radius: 22px;
+transform: rotate(-4deg);
+}
+
+
+.roxo1{
+    position: absolute;
+}
+
+.roxo1{
+    z-index: 2;
+}
+.roxo1 img{
+    
+    width: 16rem;
+    height: 22.8rem;
+}
+
+.roxo1{
+
+
+   
+    left: 10%;
+    top: 55%;
+border-radius: 22px;
+}
+
+.roxo2{
+    position: absolute;
+}
+
+.roxo2{
+    z-index: 1;
+}
+.roxo2 img{
+    
+    width: 18.5rem;
+    height: 22.8rem;
+}
+
+.roxo2{
+    
+    left: 10%;
+    top: 52%;
+    
+    
+    border-radius: 22px;
+    transform: rotate(-2deg);
+}
+
+.azul1{
+    position: absolute;
+}
+
+.azul1{
+    z-index: 2;
+}
+.azul1 img{
+    
+    width: 16rem;
+    height: 22.8rem;
+}
+
+.azul1{
+
+    
+    left: 42%;
+    top: 55%;
+
+
+border-radius: 22px;
+}
+
+.azul2{
+    position: absolute;
+
+}
+
+.azul2{
+    z-index: 1;
+}
+.azul2 img{
+    
+    width: 18rem;
+    height: 22.8rem;
+}
+
+.azul2{
+
+   
+    left: 42%;
+    top: 55%;
+
+
+border-radius: 22px;
+transform: rotate(2deg);
+
+}
+
+
+    .azulC2{
+        position: absolute;
+    }
+    
+    .azulC2{
+        z-index: 9;
+    }
+    .azulC2 img{
+        
+        width: 16rem;
+        height: 22.8rem;
+    }
+    
+    .azulC2{
+    
+        
+        left: 73%;
+        top: 55%;
+    
+    
+    border-radius: 22px;
+    }
+    .azlu2 p{
+        position: absolute;
+    }
+    .azulC2 .flavia{
+        position: absolute;
+        height: 190px;
+        width: 190px;
+        bottom: 330px;
+        left: 33px;
+        border-radius: 10px;
+    }
+
+    .txt{
+        border: 10px;
+        border-color: black;
+    }
+    
+    .azulC1{
+        position: absolute;
+    
+    }
+    
+    .azulC1{
+        z-index: 7;
+    }
+    .azulC1 img{
+        
+        width: 19rem;
+        height: 22.8rem;
+    }
+    
+    .azulC1{
+    
+       
+        left: 72%;
+        top: 55%;
+    
+    
+    border-radius: 22px;
+    transform: rotate(2deg);
+    
+    }
+
+
+
+.vetor2{
+    position: fixed;
+}
+
+.vetor2{
+    z-index: -5;
+}
+.vetor2{
+    width: 100%;
+    height: 100%;
+    left: 43rem;
+    top: 22%;
+    margin-right: -10%;
+     
+    
+}
+
+.bolaR{
+position: absolute;
+}
+
+.bolaR{
+    z-index: 4;
+}
+
+.bolaR{
+width: 100%;
+height: 100%;
+left: 80%;
+top: 0%;
+
+border-radius: 50%;
+
+}
+
+
+ .bolaA{
+    position: absolute;
+    }
+    
+    .bolaA{
+        z-index: -1;
+    }
+    
+    .bolaA{
+       
+        width: 100%;
+        height: 100%;
+        left: 56%;
+        top: 3.5%;
+        border-radius: 70%;
+        
+    } 
+
+    
+.bolaAz{
+    position: absolute;
+    }
+    
+    .bolaAz{
+        z-index: 5;
+    }
+    
+    .bolaAz{
+       
+        
+        left: 58%;
+        top: 59%;
+        border-radius: 50%;
+        
+    }
+
+    .bolaC{
+        position: absolute;
+        }
+        
+        .bolaC{
+            z-index: 0;
+        }
+        
+        .bolaC{
+            
+            
+            left: -2%;
+            top: 70%;
+            border-radius: 50%;
+           
+        }
+
+        .bolaV{
+            position: absolute;
+            }
+            
+            .bolaV{
+                z-index: 5;
+            }
+            
+            .bolaV{
+               
+                left: 25%;
+                top: 76%;
+                border-radius: 50%;
+                
+            }
+            .amarelo1, .amarelo2 {
+
+                height: auto;
+                width: auto;
+            }
+
+            
+            
+
+            @media screen  and (max-width: 939px){
+
+                .vetor2, .vetor1{
+                    position: fixed;
+                }
+
+                .bolaA, .bolaAz, .bolaC, .bolaR, .bolaV{
+                    display: none;
+                }
+
+
+            .amarelo1{
+                                
+            width: 85%;
+            height: 85%;
+            left: 5rem;
+            top: 60rem;
+            }
+
+            .amarelo2{
+                left: 5rem;
+                top: 60rem;
+            }
+
+            .roxo1, .roxo2{
+                
+                top: 31.5rem;
+            }
+
+            .vermelho1, .vermelho2{
+                left: 28rem;
+            }
+
+            .azul1, .azul2{
+                left: 28rem;
+                top: 31.5rem;
+            }
+                
+            }
+
+@media screen and (max-width: 740px){
+    .amarelo1, .amarelo2{
+        width: 100%;
+        height: 100%;
+        top: 116rem;
+        left: 7rem;
+    }
+
+    .vermelho1, .vermelho2{
+        left: 7rem;
+        top: 60rem;
+
+    }
+
+    .azul1, .azul2{
+        left: 7rem;
+        top: 88rem;
+    }
+
+    .roxo1, .roxo2{
+        left: 7rem;
+    }
+
+    .verde1,.verde2{
+        left: 7rem;
+    }
+
+    .verde2{
+        left: 6rem;
+    }
+    
+}
